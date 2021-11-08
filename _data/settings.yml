@@ -11,11 +11,41 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'Castle On The Hill',   url: 'castle'}
+- {name: 'Chess Pieces',   url: 'chess'}
+- {name: 'GE Turret', url: 'turret'}
+- {name: 'Mars Rover Illustration',  url: 'rover'}
+- {name: 'Motion Graphics Loops',  url: 'loops'}
+- {name: 'Paper Airplanes Illustration',   url: 'paper-planes'}
+- {name: 'Fake Portal Teaser',   url: 'portal'}
+- {name: 'Solar Cooler Model', url: 'cooler'}
+- {name: 'Space Concept Art',  url: 'space-concepts'}
+- {name: 'Spaceship Sketches',  url: 'space-sketches'}
+- {name: 'Small Home Render',   url: 'house-tour'}
+- {name: 'Plant Post',   url: 'plant-post'}
+- {name: 'Anti-Nuke Posters', url: 'nukes-bad'}
+- {name: 'Bose Headphones Commercials',  url: 'headphones'}
+- {name: 'Logo Design Mockups',  url: 'logos'}
+- {name: 'Playing Card Designs',   url: 'playing-cards'}
+- {name: 'Anti-Prison Poster',   url: 'prison-bad'}
+- {name: 'Theatre-Poster-Mockup', url: 'theatre-poster'}
+- {name: 'Themis Files Trilogy Cover Designs',  url: 'book-covers'}
+- {name: 'Truman State Postcards',  url: 'postcards'}
+- {name: 'Tile Spacer Photos',   url: 'tile-spacers'}
+- {name: 'Gauze Photos',   url: 'gauze'}
+- {name: 'Lifeblood', url: 'lifeblood'}
+- {name: 'Lucid Escape',  url: 'lucid-escape'}
+- {name: 'Market Worship',  url: 'market-worship'}
+- {name: 'Level 1', url: 'level-1'}
+- {name: 'Floating Cat',  url: 'floating-cat'}
+- {name: 'Orange Study',  url: 'oil-orange'}
+- {name: 'Linocuts',   url: 'linocuts'}
+- {name: 'Basic Living', url: 'basic-living'}
+- {name: 'California Home Drafting',  url: 'california'}
+- {name: 'Nebraska Home Drafting',  url: 'nebraska'}
+- {name: 'Lily Home Drafting',  url: 'lily'}
+
+
 
 #-------------------------------
 # Contact Section
@@ -35,7 +65,7 @@ social:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Wesley Scafe 3D artist and drafter portfolio powered by Jekyll and GitHub Pages '
+  description: 'Wesley Scafe 3D artist and drafter portfolio powered by Jekyll and GitHub Pages'
   rel-author: 'https://www.instagram.com/scafewesley'
   rel-publisher: 'https://www.instagram.com/scafewesley'
 
