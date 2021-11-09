@@ -4,13 +4,13 @@ title: About
 permalink: /about
 ---
 
-# About Me
+## About Me
 
 ---
 
 I am a 3D Artist working in both digital and physical media. My work focuses heavily on social issues related to class, capitalism, and housing insecurity but I also enjoy exploring utopian concepts and sustainable design. I'm also trained in architectural drafting and design and have experience with specialized fabrication using woodworking and 3D printing.
 
-## **Background**
+# **Background**
 
 ---
 
@@ -18,7 +18,7 @@ I got my start in Art and Design in 2011 when I was first introduced to *Minecra
 
 The combination of these interests and skills brought me to the 3D Modeling and Animation program at Truman State University. Being my first exposure to formal arts education, I struggled in the first couple of semesters but eventually got the hang of things. Joining the Bad Acids Printmaking Club and Windfall Literary Magazine definitely helped with this acclimation. About halfway through my digital art degree, I decided to also pursue a studio degree in Sculpture. I've completed my capstone for Sculpture and will be doing my Design capstone in the spring of 2022. Throughout my college experience, I've found out how much I enjoy working with other creative people and I aim to keep making . And that pretty much catches you up!
 
-## **Digital Skills**
+# **Digital Skills**
 
 ---
 
@@ -48,7 +48,7 @@ The combination of these interests and skills brought me to the 3D Modeling and 
   - Parametric CAD Drawing
   - Assembly Creation
 
-## **Physical Skills**
+# **Physical Skills**
 
 ---
 
@@ -73,7 +73,7 @@ The combination of these interests and skills brought me to the 3D Modeling and 
   - Drywall Cutting, Installation, and Mudding
   - Interior and Exterior Painting
 
-### **Hobbies**
+# **Hobbies**
 
 ---
 
