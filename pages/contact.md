@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact
 ---
 
-# Contact
+## Contact
 
-You may contact me [through my email](mailto:yettobecreatedemail.com) for questions about projects or commission requests.
+You may contact me [through my email](mailto:yettobecreatedemail.com) or [DM my Instagram](https://instagram.com/scafewesley) for questions about projects or commission requests.
