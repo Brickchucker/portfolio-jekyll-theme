@@ -3,7 +3,7 @@ layout: post
 title: 'Castle On The Hill'
 ---
 
-{% include image.html image="projects/castle/castle1.jpg" %}
+{% include image.html image="projects/castle/thumbnail.jpg" %}
 
 {% include image.html image="projects/castle/castle2.jpg" %}
 
