@@ -2,7 +2,6 @@
 layout: post
 title: 'Castle On The Hill'
 ---
-# Castle On The Hill
 
 {% include image.html image="projects/castle/castle1.jpg" %}
 
