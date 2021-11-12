@@ -19,16 +19,18 @@ projects:
 - {name: 'Paper Airplanes Illustration',   url: 'paper-planes'}
 - {name: 'Fake Portal Teaser',   url: 'portal'}
 - {name: 'Solar Cooler Model', url: 'cooler'}
+- {name: 'Big Weird Suit Project', url: 'weird-suit'}
 - {name: 'Space Concept Art',  url: 'space-concepts'}
+- {name: 'Wave',  url: 'wave'}
 - {name: 'Spaceship Sketches',  url: 'space-sketches'}
 - {name: 'Small Home Render',   url: 'house-tour'}
-- {name: 'Plant Post',   url: 'plant-post'}
+- {name: 'Watercolor and Drawings',   url: 'watercolor-drawing'}
 - {name: 'Anti-Nuke Posters', url: 'nukes-bad'}
 - {name: 'Bose Headphones Commercials',  url: 'headphones'}
-- {name: 'Logo Design Mockups',  url: 'logos'}
+- {name: 'Big Scissors Fabrication',  url: 'big-scissors'}
 - {name: 'Playing Card Designs',   url: 'playing-cards'}
 - {name: 'Anti-Prison Poster',   url: 'prison-bad'}
-- {name: 'Theatre-Poster-Mockup', url: 'theatre-poster'}
+- {name: 'Theatre Poster Mockup', url: 'theatre-poster'}
 - {name: 'Themis Files Trilogy Cover Designs',  url: 'book-covers'}
 - {name: 'Truman State Postcards',  url: 'postcards'}
 - {name: 'Tile Spacer Photos',   url: 'tile-spacers'}
@@ -44,6 +46,7 @@ projects:
 - {name: 'California Home Drafting',  url: 'california'}
 - {name: 'Nebraska Home Drafting',  url: 'nebraska'}
 - {name: 'Lily Home Drafting',  url: 'lily'}
+- {name: 'Logo Design Mockups',  url: 'logos'}
 
 
 #-------------------------------

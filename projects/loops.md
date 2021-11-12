@@ -1,16 +1,10 @@
 ---
 layout: post
-title: 'Castle On The Hill'
+title: 'Motion Graphics Loops'
 ---
 
-{% include image.html image="projects/castle/thumbnail.jpg" %}
+{% include video.html video="projects/loops/loop1.mp4" %}
 
-{% include image.html image="projects/castle/castle2.jpg" %}
+{% include video.html video="projects/loops/loop2.mp4" %}
 
-{% include image.html image="projects/castle/castle3.jpg" %}
-
-{% include image.html image="projects/castle/castle4.jpg" %}
-
-{% include image.html image="projects/castle/castle5.jpg" %}
-
-{% include image.html image="projects/castle/castle6.jpg" %}
+{% include video.html video="projects/loops/loop3.mp4" %}
