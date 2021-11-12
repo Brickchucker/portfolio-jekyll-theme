@@ -11,7 +11,8 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Castle On The Hill',   url: 'castle'}, {name: 'Chess Pieces',   url: 'chess'}
+- {name: 'Castle On The Hill',   url: 'castle'}
+- {name: 'Chess Pieces',   url: 'chess'}
 - {name: 'GE Turret', url: 'turret'}
 - {name: 'Mars Rover Illustration',  url: 'rover'}
 - {name: 'Motion Graphics Loops',  url: 'loops'}
@@ -43,7 +44,6 @@ projects:
 - {name: 'California Home Drafting',  url: 'california'}
 - {name: 'Nebraska Home Drafting',  url: 'nebraska'}
 - {name: 'Lily Home Drafting',  url: 'lily'}
-
 
 
 #-------------------------------
