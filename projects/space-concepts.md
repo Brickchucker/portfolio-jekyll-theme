@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Logo Design Mockups'
+title: 'Space Concept Art'
 ---
 
-{% include image.html image="projects/logos/thumbnail.jpg" %}
+{% include image.html image="projects/space-concepts/thumbnail.jpg" %}
 
-{% include image.html image="projects/logos/ZeroXlogo.jpg" %}
+{% include image.html image="projects/space-concepts/space-concept2.jpg" %}
 
-{% include image.html image="projects/logos/SueRossLogoColor_1.jpg" %}
+{% include image.html image="projects/space-concepts/space-concept3.jpg" %}
 
-{% include image.html image="projects/logos/HestiaLogo.jpg" %}
+{% include image.html image="projects/space-concepts/space-concept4.jpg" %}

@@ -8,7 +8,7 @@ permalink: /about
 
 ---
 
-I am a 3D Artist working in both digital and physical media. My work focuses heavily on social issues related to class, capitalism, and housing insecurity but I also enjoy exploring utopian concepts and sustainable design. I'm also trained in architectural drafting and design and have experience with specialized fabrication using woodworking and 3D printing.
+I'm a 3D Artist working in both digital and physical media. My work focuses heavily on social issues related to class, capitalism, and housing insecurity but I also enjoy exploring utopian concepts and sustainable design. I'm also trained in architectural drafting and design and have experience with specialized fabrication using woodworking and 3D printing.
 
 # **Background**
 
