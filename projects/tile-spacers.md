@@ -46,5 +46,3 @@ title: 'Tile Spacer Photos'
 {% include image.html image="projects/tile-spacers/tile-spacers20.jpg" %}
 
 {% include image.html image="projects/tile-spacers/tile-spacers21.jpg" %}
-
-{% include image.html image="projects/tile-spacers/tile-spacers22.jpg" %}

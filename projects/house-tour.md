@@ -9,4 +9,4 @@ title: 'Small Home Render'
 
 {% include image.html image="projects/house-tour/bed.jpg" %}
 
-{% include image.html image="projects/house-tour/house-livingroom.jpg" %}
+{% include image.html image="projects/house-tour/livingroom.jpg" %}

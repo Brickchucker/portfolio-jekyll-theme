@@ -41,6 +41,7 @@ projects:
 - {name: 'Floating Cat',  url: 'floating-cat'}
 - {name: 'Big Scissors Fabrication',  url: 'big-scissors'}
 # - {name: 'California Home Drafting',  url: 'california'}
+- {name: 'Lily Home Drafting',   url: 'lily'}
 - {name: 'Anti-Prison Poster',   url: 'prison-bad'}
 - {name: 'Orange Study',  url: 'oil-orange'}
 - {name: 'Lily Home Drafting',  url: 'lily'}

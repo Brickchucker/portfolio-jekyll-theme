@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'postcards On The Hill'
+title: 'Truman State Postcards'
 ---
 
 {% include image.html image="projects/postcards/thumbnail.jpg" %}
